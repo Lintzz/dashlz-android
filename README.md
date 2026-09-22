@@ -2,12 +2,15 @@
 
 O aplicativo do tablet ou celular do **Dashlz**: o painel de instrumentos do seu
 caminhão no Euro Truck Simulator 2 e no American Truck Simulator, ao lado do
-volante. Gratuito. Funciona junto com o Dashlz para Windows, no PC onde você joga,
+volante. Gratuito. Funciona junto com o [Dashlz para Windows](https://apps.microsoft.com/detail/9MV5M8N5G1RG), no PC onde você joga,
 com os dois aparelhos na mesma rede Wi-Fi.
 
 ## Baixar
 
-**Página de download, com as instruções de instalação:**
+**No PC:** o Dashlz para Windows, na Microsoft Store:
+https://apps.microsoft.com/detail/9MV5M8N5G1RG
+
+**No tablet ou celular:** a página de download, com as instruções de instalação:
 https://privacidade-dashlz.vercel.app/android
 
 Link direto para a versão mais nova:
